@@ -1,0 +1,16 @@
+img {
+    width: 600px;
+}
+
+body {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background: rgb(245, 231, 177);
+    line-height: 0.3em;
+    padding: 3em;
+    font-weight: bold;
+}
+
+h1 {
+    padding: 2em;
+}
